@@ -1,8 +1,8 @@
-# 🏦 Banking Management System (Java-JDBC)
+#  Banking Management System (Java-JDBC)
 
 A robust console-based Banking Application built using **Java** and **MySQL**. This project demonstrates the implementation of core **OOPs concepts**, **JDBC** for database connectivity, and **Transaction Management** to ensure data integrity.
 
-## 🌟 Features
+##  Features
 
 ### User Management
 * **Registration & Login:** Secure User Registration and Login system.
