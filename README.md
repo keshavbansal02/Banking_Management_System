@@ -23,7 +23,7 @@ A robust console-based Banking Application built using **Java** and **MySQL**. T
 
 ---
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 * **Java Development Kit (JDK):** Version 17 or higher.
 * **Database:** MySQL Server (8.0 or higher).
